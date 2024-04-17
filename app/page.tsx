@@ -1,6 +1,5 @@
 // "use client"
-import Image from "next/image";
-import { Container, Table, styled, TableCell, TableRow, TableBody} from "@mui/material"
+import { Container, Table} from "@mui/material"
 import { promises as fs } from "fs";
 import Typography from '@mui/material/Typography';
 import { MyTableBody } from "./components/tableBody"
